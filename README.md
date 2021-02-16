@@ -8,4 +8,4 @@ PI control with anti-windup. Parameters are not optimally tuned, merely tuned un
 
 Task 2: RTOS.
 ---------------------
-In progress
+Finished. File for basic case (osDelay implementation) is also included. Bonus implementation (osSignalWait & Timers) is included as application2.c.
