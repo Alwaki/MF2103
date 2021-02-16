@@ -12,3 +12,4 @@ Finished. File for basic case (osDelay implementation) is also included. Bonus i
 
 Task 3: Distributed systems using TCP/IP.
 ---------------------
+In progress.
