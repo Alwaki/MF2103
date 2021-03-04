@@ -12,4 +12,4 @@ Finished. File for basic case (osDelay implementation) is also included. Bonus i
 
 Task 3: Distributed systems using TCP/IP.
 ---------------------
-In progress.
+Finished. Client application file uses 4 threads (including main with bootup sequence) for sampling, actuation and communication. Server uses 3 threads (including main with bootup sequence), for reference, calculation, and communication. TCP handshake is initiated at start, and when connection is interrupted (power loss, ethernet cable unplugged). Bonus implementation is done, motor is signalled to stop within one sampling time from disconnect.
